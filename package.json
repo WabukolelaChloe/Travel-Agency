@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@egjs/flicking": "^4.11.0",
+    "@egjs/flicking-plugins": "^4.7.1"
+  }
+}
